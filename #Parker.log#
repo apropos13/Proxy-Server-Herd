@@ -1,0 +1,43 @@
+WHATSAT panos.cs.ucla.edu 10 5
+<11/30/2015 06:45:45 PM> : OUTPUT--> <11/30/2015 06:44:38 PM> : Server Parker came online
+<11/30/2015 06:44:38 PM> : Retrieved information from peer servers
+<11/30/2015 06:44:38 PM> : Connected with peer server
+<11/30/2015 06:44:38 PM> : INPUT-->Connection Succesful with server Hamilton
+<11/30/2015 06:44:43 PM> : Connection Succesful with client
+<11/30/2015 06:44:43 PM> : INPUT-->  ASK
+<11/30/2015 06:44:43 PM> : Asked by booting peer to send user data
+<11/30/2015 06:44:59 PM> : Connection Succesful with client
+<11/30/2015 06:44:59 PM> : INPUT-->  AT Hamilton 680660.599327 panos.cs.ucla.edu +34.068930-118.445127 1448257239 Hamilton
+<11/30/2015 06:44:59 PM> : Passed information to Alford
+<11/30/2015 06:44:59 PM> : Propagating At information to peers
+<11/30/2015 06:44:59 PM> : Connected with peer server
+<11/30/2015 06:44:59 PM> : INPUT-->Connection Succesful with server Alford
+<11/30/2015 06:45:40 PM> : Connection Succesful with client
+<11/30/2015 06:45:45 PM> : INPUT-->  WHATSAT panos.cs.ucla.edu 10 5
+<11/30/2015 06:45:45 PM> : OUTPUT--> WHATSAT info (ommitted here)
+<11/30/2015 06:46:01 PM> : INPUT-->  WHATSAT laz.cs.ucla.edu 10 5
+<11/30/2015 06:46:01 PM> : WHATSAT failed--No such user on the servers
+<11/30/2015 06:46:11 PM> : INPUT-->  IAMAT laz.cs.ucla.edu +34.068930-118.445127 1448257239
+<11/30/2015 06:46:11 PM> : OUTPUT--> AT Parker 680732.769204 laz.cs.ucla.edu +34.068930-118.445127 1448257239
+<11/30/2015 06:46:11 PM> : Passed information to Alford
+<11/30/2015 06:46:11 PM> : Passed information to Hamilton
+<11/30/2015 06:46:11 PM> : Propagating AT information to peer servers
+<11/30/2015 06:46:11 PM> : Connected with peer server
+<11/30/2015 06:46:11 PM> : Connected with peer server
+<11/30/2015 06:46:11 PM> : INPUT-->Connection Succesful with server Alford
+<11/30/2015 06:46:11 PM> : INPUT-->Connection Succesful with server Hamilton
+<11/30/2015 06:48:25 PM> : Connection Succesful with client
+<11/30/2015 06:48:25 PM> : INPUT-->  AT Alford 680866.903201 lolos.cs.ucla.edu +34.068930-118.445127 1448257239 Alford
+<11/30/2015 06:48:25 PM> : Passed information to Hamilton
+<11/30/2015 06:48:25 PM> : Propagating At information to peers
+<11/30/2015 06:48:25 PM> : Connected with peer server
+<11/30/2015 06:48:25 PM> : INPUT-->Connection Succesful with server Hamilton
+<11/30/2015 06:49:31 PM> : Connection with client laz.cs.ucla.edu Lost
+<11/30/2015 06:49:34 PM> : Connection with client lolos.cs.ucla.edu Lost
+<11/30/2015 06:49:34 PM> : Connection with Server Lost
+<11/30/2015 06:49:34 PM> : Connection with client Lost
+<11/30/2015 06:49:34 PM> : Connection with Server Lost
+<11/30/2015 06:49:37 PM> : Connection with Server Lost
+<11/30/2015 06:49:37 PM> : Connection with client panos.cs.ucla.edu Lost
+<11/30/2015 06:49:37 PM> : Connection with Server Lost
+<11/30/2015 06:49:37 PM> : Connection with Server Lost

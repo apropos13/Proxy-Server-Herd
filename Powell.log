@@ -1,0 +1,27 @@
+<11/30/2015 06:44:47 PM> : Server Powell came online
+<11/30/2015 06:44:47 PM> : Retrieved information from peer servers
+<11/30/2015 06:44:47 PM> : Connected with peer server
+<11/30/2015 06:44:47 PM> : INPUT-->Connection Succesful with server Alford
+<11/30/2015 06:44:59 PM> : Connection Succesful with client
+<11/30/2015 06:44:59 PM> : INPUT-->  AT Hamilton 680660.599327 panos.cs.ucla.edu +34.068930-118.445127 1448257239 Alford
+<11/30/2015 06:44:59 PM> : Passed information to Bolden
+<11/30/2015 06:44:59 PM> : Propagating At information to peers
+<11/30/2015 06:46:11 PM> : Connection Succesful with client
+<11/30/2015 06:46:11 PM> : INPUT-->  AT Parker 680732.769204 laz.cs.ucla.edu +34.068930-118.445127 1448257239 Alford
+<11/30/2015 06:46:11 PM> : Passed information to Bolden
+<11/30/2015 06:46:11 PM> : Propagating At information to peers
+<11/30/2015 06:46:39 PM> : Connection Succesful with client
+<11/30/2015 06:46:39 PM> : INPUT-->  ASK
+<11/30/2015 06:46:39 PM> : Asked by booting peer to send user data
+<11/30/2015 06:48:25 PM> : Connection Succesful with client
+<11/30/2015 06:48:25 PM> : INPUT-->  AT Alford 680866.903201 lolos.cs.ucla.edu +34.068930-118.445127 1448257239 Alford
+<11/30/2015 06:48:25 PM> : Passed information to Bolden
+<11/30/2015 06:48:25 PM> : Propagating At information to peers
+<11/30/2015 06:48:25 PM> : Connected with peer server
+<11/30/2015 06:48:25 PM> : INPUT-->Connection Succesful with server Bolden
+<11/30/2015 06:49:34 PM> : Connection with client panos.cs.ucla.edu Lost
+<11/30/2015 06:49:34 PM> : Connection with Server Lost
+<11/30/2015 06:49:34 PM> : Connection with client lolos.cs.ucla.edu Lost
+<11/30/2015 06:49:34 PM> : Connection with client laz.cs.ucla.edu Lost
+<11/30/2015 06:49:38 PM> : Connection with client Lost
+<11/30/2015 06:49:38 PM> : Connection with Server Lost

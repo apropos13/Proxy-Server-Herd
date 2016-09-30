@@ -1,0 +1,28 @@
+<11/30/2015 06:43:49 PM> : Server Hamilton came online
+<11/30/2015 06:43:49 PM> : Retrieved information from peer servers
+<11/30/2015 06:43:52 PM> : Connection Succesful with client
+<11/30/2015 06:43:58 PM> : INPUT-->  WHATSAT dewd dwe  ewd
+<11/30/2015 06:44:08 PM> : INPUT-->  WHATAT dcew 12 4 
+<11/30/2015 06:44:08 PM> : OUTPUT--> ? WHATAT dcew 12 4 
+<11/30/2015 06:44:23 PM> : INPUT-->  WHATSAT erfer 12 5
+<11/30/2015 06:44:23 PM> : WHATSAT failed--No such user on the servers
+<11/30/2015 06:44:38 PM> : Connection Succesful with client
+<11/30/2015 06:44:38 PM> : INPUT-->  ASK
+<11/30/2015 06:44:38 PM> : Asked by booting peer to send user data
+<11/30/2015 06:44:59 PM> : INPUT-->  IAMAT panos.cs.ucla.edu +34.068930-118.445127 1448257239
+<11/30/2015 06:44:59 PM> : OUTPUT--> AT Hamilton 680660.599327 panos.cs.ucla.edu +34.068930-118.445127 1448257239
+<11/30/2015 06:44:59 PM> : Passed information to Parker
+<11/30/2015 06:44:59 PM> : Propagating AT information to peer servers
+<11/30/2015 06:44:59 PM> : Connected with peer server
+<11/30/2015 06:44:59 PM> : INPUT-->Connection Succesful with server Parker
+<11/30/2015 06:46:11 PM> : Connection Succesful with client
+<11/30/2015 06:46:11 PM> : INPUT-->  AT Parker 680732.769204 laz.cs.ucla.edu +34.068930-118.445127 1448257239 Parker
+<11/30/2015 06:46:11 PM> : Propagating At information to peers
+<11/30/2015 06:46:56 PM> : Connection with client panos.cs.ucla.edu Lost
+<11/30/2015 06:48:25 PM> : Connection Succesful with client
+<11/30/2015 06:48:25 PM> : INPUT-->  AT Alford 680866.903201 lolos.cs.ucla.edu +34.068930-118.445127 1448257239 Parker
+<11/30/2015 06:48:25 PM> : Propagating At information to peers
+<11/30/2015 06:49:37 PM> : Connection with client laz.cs.ucla.edu Lost
+<11/30/2015 06:49:37 PM> : Connection with Server Lost
+<11/30/2015 06:49:37 PM> : Connection with client Lost
+<11/30/2015 06:49:37 PM> : Connection with client lolos.cs.ucla.edu Lost

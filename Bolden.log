@@ -1,0 +1,23 @@
+<11/30/2015 06:46:39 PM> : Server Bolden came online
+<11/30/2015 06:46:39 PM> : Retrieved information from peer servers
+<11/30/2015 06:46:39 PM> : Connected with peer server
+<11/30/2015 06:46:39 PM> : INPUT-->Connection Succesful with server Powell
+<11/30/2015 06:46:39 PM> : INPUT-->STORE laz.cs.ucla.edu AT Parker 680732.769204 laz.cs.ucla.edu +34.068930-118.445127 1448257239
+<11/30/2015 06:46:39 PM> : Upon booting added user laz.cs.ucla.edu with user details: 
+AT Parker 680732.769204 laz.cs.ucla.edu +34.068930-118.445127 1448257239
+<11/30/2015 06:46:39 PM> : INPUT-->STORE panos.cs.ucla.edu AT Hamilton 680660.599327 panos.cs.ucla.edu +34.068930-118.445127 1448257239
+<11/30/2015 06:46:39 PM> : Upon booting added user panos.cs.ucla.edu with user details: 
+AT Hamilton 680660.599327 panos.cs.ucla.edu +34.068930-118.445127 1448257239
+<11/30/2015 06:47:10 PM> : Connection Succesful with client
+<11/30/2015 06:47:18 PM> : INPUT-->  WHATSAT laz.cs.ucla.edu 10 5
+<11/30/2015 06:47:19 PM> : OUTPUT--> WHATSAT info (ommitted here)
+<11/30/2015 06:47:36 PM> : INPUT-->  WHATSAT laz.cs.ucla.edu 10 5
+<11/30/2015 06:47:36 PM> : OUTPUT--> WHATSAT info (ommitted here)
+<11/30/2015 06:47:42 PM> : INPUT-->  WHATSAT panos.cs.ucla.edu 10 5
+<11/30/2015 06:47:42 PM> : OUTPUT--> WHATSAT info (ommitted here)
+<11/30/2015 06:47:52 PM> : Connection with client Lost
+<11/30/2015 06:48:25 PM> : Connection Succesful with client
+<11/30/2015 06:48:25 PM> : INPUT-->  AT Alford 680866.903201 lolos.cs.ucla.edu +34.068930-118.445127 1448257239 Powell
+<11/30/2015 06:48:25 PM> : Propagating At information to peers
+<11/30/2015 06:49:38 PM> : Connection with Server Lost
+<11/30/2015 06:49:38 PM> : Connection with client lolos.cs.ucla.edu Lost
